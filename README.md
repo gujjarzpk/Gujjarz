@@ -1,2 +1,1 @@
-# Gujjarz
-Gujjarz Online store
+# Gujjarzpk
